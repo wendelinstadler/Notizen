@@ -1,7 +1,7 @@
 ---
 title: Konsole
 created: '2025-08-06T13:59:31.278Z'
-modified: '2025-08-06T14:23:10.493Z'
+modified: '2025-08-07T11:57:53.933Z'
 ---
 
 # Konsole
@@ -25,12 +25,11 @@ Die Konsole (auch Terminal, Shell oder Kommandozeile gennant) ist eine Schnittst
 - `tree /f`: Nur Ordner rekursiv anzeigen.
 
 
-## Notizen
+## Meine Notizen
 
 mit der Konsole kann man die ganzen Laufwerke und Dateien kontrollieren und verändern so kann man auf infos aus dem Daten Speicher sehen und verändern.
 Die Konsole ist eine textbasierte Schnittstelle, über die man direkt mit dem Computer oder einem Programm kommunizieren kann. Statt mit der Maus klickt man hier Befehle ein, die dann vom System ausgeführt werden.
 Sie wird oft von Programmierern und Systemadministratoren genutzt, weil sie schnelle Kontrolle und direkte Eingaben ermöglicht. Beispiele sind die Eingabeaufforderung (CMD) bei Windows oder das Terminal bei macOS und Linux.
 
----
 
 

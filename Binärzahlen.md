@@ -1,12 +1,11 @@
 ---
-title: Übungen zu Binärzahlen
+title: Binärzahlen
 created: '2025-08-07T09:06:25.660Z'
-modified: '2025-08-07T09:11:31.175Z'
+modified: '2025-08-07T11:59:26.875Z'
 ---
 
-# Übungen zu Binärzahlen
+# Binärzahlen
 
-> Bei diesen Übungen kann AI beim Verständnis helfen. Lass dir aber nicht direkt die Lösung generieren.
 
 ## Binär zu Dezimal umrechnen
 1.= 1
