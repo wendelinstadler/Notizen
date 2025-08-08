@@ -1,7 +1,7 @@
 ---
 title: Github
 created: '2025-08-07T09:11:57.369Z'
-modified: '2025-08-07T11:57:26.310Z'
+modified: '2025-08-07T12:23:16.729Z'
 ---
 
 # Github
@@ -25,5 +25,6 @@ GitHub ist eine Online-Plattform zur Verwaltung und Zusammenarbeit an Softwarepr
 - `git log origin/main`: Zeigt die Commit-Historie des Remote-Branches  
 - `git remote remove origin`: Entfernt die GitHub-Verbindung  
 
- ## Meine Notizen
+ ## Meine Notizen 
+ Github ist gut um meine projekte und notizen zu speichern das ich immer darauf zugreifen kann.
 

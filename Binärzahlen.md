@@ -1,7 +1,7 @@
 ---
 title: Binärzahlen
 created: '2025-08-07T09:06:25.660Z'
-modified: '2025-08-07T11:59:26.875Z'
+modified: '2025-08-07T12:28:37.109Z'
 ---
 
 # Binärzahlen
@@ -39,11 +39,10 @@ Rechne die Dezimalzahl zu folgenden Binärzahlen aus.
 ## Allgemeine Fragen
 
 - Angenommen ein Computer hat 32 Bits zum speichern einer Zahl zur Verfügung. Welches ist die höchste Zahl, die abgespeichert werden kann?
- 2’147’483’648
-- Was fällt auf, wenn du die Zahlen 32, 64 und 128 in Binärzahlen umwandelst?
-Man muss mit hoch rechnen.
+ *2’147’483’648*
+
 ## Notizen
 
-Ich habe gelernt das um so weiter die zahl von der ersten zahl weg ist un so grösser ist sie. 
----
+Ich habe gelernt das um so weiter die zahl von der ersten stelle weg ist um so grösser ist sie.
+In einem Computer ist alles im *Binärsystem* wenn es 32 Bits ist hat es 32 stellen und bei 64 bits 64. 
 

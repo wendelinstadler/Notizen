@@ -1,7 +1,7 @@
 ---
 title: Git
 created: '2025-08-07T09:06:26.173Z'
-modified: '2025-08-07T11:56:22.964Z'
+modified: '2025-08-07T12:24:39.198Z'
 ---
 
 # Git 
@@ -29,4 +29,5 @@ Jeder hat dabei eine komplette Kopie vom Projekt auf seinem Computer. Das macht 
 - `git log` – Zeigt die ausführliche Commit-Historie mit Details.
 
  ## Meine Notizen
+ Mit Git kann ich meine projekte und notizen zwischen speichern damit ich später darauf zugreifen kann.
 

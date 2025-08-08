@@ -1,12 +1,10 @@
 ---
-title: Übungen zum Dateisystem
+title: Dateisystem
 created: '2025-08-07T09:06:25.013Z'
-modified: '2025-08-07T09:07:39.106Z'
+modified: '2025-08-07T12:26:01.438Z'
 ---
 
-# Übungen zum Dateisystem
-
-> Bei diesen Übungen kann AI beim Verständnis helfen. Lass dir aber nicht direkt die Lösung generieren.
+# Dateisystem
 
 ## Recherche
 
@@ -60,8 +58,6 @@ C:\user\scripts\backup.sh
 - Gib den relativen Pfad der Datei auf Zeile 16 an, ausgehend vom Verzeichnis auf Zeile 2.
 ..\..\documents
 ## Notizen
-
-Schreibe auf, was du neu gelernt hast, damit du es später nachschlagen kannst. Du kannst ein Notizblock verwenden, oder digitale Notizen auf deinem Computer machen.
 
 Beim relativen startet man dort wo man schon ist und beim absoluten von ganz am Anfang.
 Wenn man einen Ordner zurück gehen will muss man ..\ machen.
