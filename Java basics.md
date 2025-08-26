@@ -1,10 +1,10 @@
 ---
-title: Java
+title: Java basics
 created: '2025-08-07T09:11:57.638Z'
-modified: '2025-08-12T08:38:33.434Z'
+modified: '2025-08-26T06:20:18.770Z'
 ---
 
-# Java 
+# Java basics
 
 Java ist eine objektorientierte Programmiersprache, die weltweit sehr verbreitet ist.  
 Sie ist bekannt für ihre Plattformunabhängigkeit, weil Java-Programme nicht direkt als Maschinencode ausgeführt werden,  
@@ -156,19 +156,40 @@ Mit Arrays kann man sich ein paar Variablen sparen.
 ## for-Schleife
 Die for-Schleife verwendet einen ganzzahligen Zähler, welcher sich so lange erhöht, bis das Ende erreicht ist. Eine Wiederholung des Codes innerhalb der Schleife wird "Iteration" genannt.
 
-for (int i = 0; i < 10; i++) {
+- `for (int i = 0; i < 10; i++) {
     System.out.println(i);
+}`
+- `for (int i = a; i < a.lenght; i++) {
+    System.out.println(i);
+}`
+
+-`int i = 0`: Erstellt den Zähler mit einem Anfangswert.
+-`i < 10`: Bedingung, welche vor jeder Iteration geprüft wird. Falls diese Bedinung false ist, wird die Schleife abgebrochen.
+-`i++`: Wird nach jeder Iteration ausgeführt und erhöht den Wert von i um 1.
+-`i++`; ist eine Kurzschreibweise für i = i + 1;.
+
+
+
+#  Java Methoden
+
+In Java sind **Methoden** benannte Code-Blöcke, die eine bestimmte Aufgabe ausführen. Sie dienen dazu, Programme übersichtlicher zu strukturieren, Code wiederzuverwenden und die Lesbarkeit zu verbessern.  
+
+Eine Methode besteht aus mehreren Bestandteilen:  
+- **Sichtbarkeit** (z. B. `public`, `private`, `protected`) gibt an, von wo aus die Methode aufgerufen werden darf.  
+- **Rückgabetyp** (z. B. `int`, `String`, `void`) bestimmt, welchen Wert die Methode zurückgibt.  
+- **Name** der Methode sollte aussagekräftig sein.  
+- **Parameterliste** enthält optionale Eingabewerte.  
+
+Die allgemeine Syntax sieht so aus:  
+
+```java
+Sichtbarkeit Rückgabetyp name(Parameterliste) {
+    // Anweisungen
+    return Wert; // falls Rückgabetyp != void
 }
-int i = 0: Erstellt den Zähler mit einem Anfangswert.
-i < 10: Bedingung, welche vor jeder Iteration geprüft wird. Falls diese Bedinung false ist, wird die Schleife abgebrochen.
-i++: Wird nach jeder Iteration ausgeführt und erhöht den Wert von i um 1.
-i++; ist eine Kurzschreibweise für i = i + 1;.
 
 
 
-# Methoden
 
-greet
-add
-parameter
+
 
