@@ -1,7 +1,8 @@
 ---
+deleted: true
 title: Übungen zu Java Variablen und Datentypen
 created: '2025-08-07T09:11:57.527Z'
-modified: '2025-08-07T13:55:15.118Z'
+modified: '2025-09-09T11:08:30.573Z'
 ---
 
 Übungen zu Java Variablen und Datentypen

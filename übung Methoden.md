@@ -1,7 +1,8 @@
 ---
+deleted: true
 title: übung Methoden
 created: '2025-08-12T09:05:07.835Z'
-modified: '2025-08-12T12:19:20.631Z'
+modified: '2025-09-09T11:08:21.040Z'
 ---
 
 # übung Methoden
