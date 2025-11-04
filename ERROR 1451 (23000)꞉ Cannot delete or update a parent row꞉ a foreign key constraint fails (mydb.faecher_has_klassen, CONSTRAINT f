@@ -1,0 +1,7 @@
+---
+title: 'ERROR 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (mydb.faecher_has_klassen, CONSTRAINT fk_Faecher_has_klassen_Faecher1 FOREIGN KEY (Faecher_idFaecher) REFERENCES faecher (idFaecher) ON DELETE NO ACTION ON UPDATE NO ACTION)'
+created: '2025-10-22T06:16:39.017Z'
+modified: '2025-10-22T06:16:41.762Z'
+---
+
+# ERROR 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`mydb`.`faecher_has_klassen`, CONSTRAINT `fk_Faecher_has_klassen_Faecher1` FOREIGN KEY (`Faecher_idFaecher`) REFERENCES `faecher` (`idFaecher`) ON DELETE NO ACTION ON UPDATE NO ACTION)
